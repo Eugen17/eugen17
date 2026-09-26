@@ -6,15 +6,19 @@ author_profile: true
 ---
 
 <h2>Conference papers</h2>
+<ul class="research-list">
 {% for paper in site.data.publications %}
   {% if paper.category == 'conference' %}
     {% include publication-entry.html %}
   {% endif %}
 {% endfor %}
+</ul>
 
 <h2>Preprints</h2>
+<ul class="research-list">
 {% for paper in site.data.publications %}
   {% if paper.category == 'preprint' %}
     {% include publication-entry.html %}
   {% endif %}
 {% endfor %}
+</ul>

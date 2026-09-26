@@ -1,0 +1,8 @@
+<li class="research-entry talk-entry">
+  <h3>{{ talk.title | escape }}</h3>
+  <p><a href="{{ talk.event_url }}">{{ talk.event | escape }}</a> · {{ talk.location | escape }}</p>
+  <div class="entry-meta">
+    <span>{{ talk.date_label | escape }}</span>
+    {% include resource-links.html paper=talk.paper_url slides=talk.slides_url video=talk.video_url label=talk.title %}
+  </div>
+</li>

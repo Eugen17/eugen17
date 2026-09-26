@@ -1,0 +1,17 @@
+<span class="resource-links">
+  {% if include.paper %}
+  <a href="{{ include.paper }}" aria-label="Paper: {{ include.label | escape }}" title="Paper">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6M8 13h8M8 17h6"/></svg>
+  </a>
+  {% endif %}
+  {% if include.slides %}
+  <a href="{{ include.slides }}" aria-label="Slides: {{ include.label | escape }}" title="Slides">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="2" y="3" width="20" height="14" rx="1.5"/><path d="M12 17v4M8 21h8M6 8h7M6 12h11"/></svg>
+  </a>
+  {% endif %}
+  {% if include.video %}
+  <a href="{{ include.video }}" aria-label="{{ include.video_label | default: 'Video' | escape }}: {{ include.label | escape }}" title="{{ include.video_label | default: 'Video' | escape }}">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="2" y="5" width="14" height="14" rx="2"/><path d="m16 10 6-4v12l-6-4z"/></svg>
+  </a>
+  {% endif %}
+</span>

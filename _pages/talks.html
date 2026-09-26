@@ -5,15 +5,20 @@ permalink: /talks/
 author_profile: true
 ---
 
+<h2>Invited talks</h2>
+<ul class="research-list">
 {% for talk in site.data.talks %}
-<article class="research-entry">
-  <p class="research-entry__date">{{ talk.date_label | escape }}</p>
-  <h2>{{ talk.title | escape }}</h2>
-  <p><a href="{{ talk.event_url }}">{{ talk.event | escape }}</a><br />{{ talk.location | escape }}</p>
-  <p>{% if talk.slides_url %}<a href="{{ talk.slides_url }}">Slides</a> · {% endif %}<a href="{{ talk.paper_url }}">Related paper</a></p>
-</article>
+  {% if talk.group == 'invited' %}
+    {% include talk-entry.html %}
+  {% endif %}
 {% endfor %}
+</ul>
 
-<h2>Workshop organization</h2>
-<p><strong><a href="https://informatik.rub.de/symcrypt/gems2026/">GEMS 2026 — Workshop on GPU-Tailored Modern Symmetric Cryptography</a></strong></p>
-<p>Co-organizer · EUROCRYPT 2026 affiliated event<br />10 May 2026 · Rome, Italy</p>
+<h2>Talks</h2>
+<ul class="research-list">
+{% for talk in site.data.talks %}
+  {% if talk.group == 'talk' %}
+    {% include talk-entry.html %}
+  {% endif %}
+{% endfor %}
+</ul>

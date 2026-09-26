@@ -9,6 +9,8 @@ author_profile: true
 - [Talks]({{ '/talks/' | relative_url }})
 - [Publications]({{ '/publications/' | relative_url }})
 - [Teaching]({{ '/teaching/' | relative_url }})
+- [Event organisation]({{ '/event-organisation/' | relative_url }})
+- [Grants]({{ '/grants/' | relative_url }})
 - [Blog posts]({{ '/blog/' | relative_url }})
 
 {% if site.posts.size > 0 %}

@@ -1,15 +1,27 @@
+- title: What to Guess in Key-Recovery Attacks?
+  authors: Tim Beyne, Gregor Leander, Patrick Neumann, Yevhen Perehuda, and Michiel Verbauwhede
+  venue: ASIACRYPT 2026
+  year: 2026
+  category: conference
+  url: https://eprint.iacr.org/2026/1897
 - title: 'When the Wrong Key Lives On: The Key-Recovery Procedure in Integral Attacks'
   authors: Christof Beierle, Gregor Leander, and Yevhen Perehuda
   venue: EUROCRYPT 2026
   year: 2026
   category: conference
   url: https://eprint.iacr.org/2025/2011
+  slides_url: https://iacr.org/submit/files/slides/2026/eurocrypt/eurocrypt2026/521/521_slides.pdf
+  video_url: https://youtu.be/5FfvtCzvkC0
+  video_label: Conference session recording
 - title: Integral Resistance of Block Ciphers with Key Whitening by Modular Addition
   authors: Christof Beierle, Phil Hebborn, Gregor Leander, and Yevhen Perehuda
   venue: CRYPTO 2025
   year: 2025
   category: conference
   url: https://eprint.iacr.org/2025/1050
+  slides_url: https://iacr.org/submit/files/slides/2025/crypto/crypto2025/259/259_slides.pdf
+  video_url: https://youtu.be/PTCZz-g8L3s
+  video_label: Conference session recording
 - title: 'Attacks and Remedies for Randomness in AI: Cryptanalysis of PHILOX and THREEFRY'
   authors: Jens Alich, Thomas Eisenbarth, Hossein Hadipour, Gregor Leander, Felix Mächtle, Yevhen Perehuda, Shahram Rasoolzadeh, Jonas Sander, and Cihangir Tezcan
   venue: Preprint, 2025

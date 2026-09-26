@@ -4,12 +4,14 @@
   location: Rennes, France
   event_url: https://www.creachlabs.fr/en/seminars-keeping-date-latest-research/cryptography-seminar
   paper_url: https://eprint.iacr.org/2025/2161
+  group: invited
 - title: 'Attacks and Remedies for Randomness in AI: Cryptanalysis of PHILOX and THREEFRY'
   date_label: 4 March 2026
   event: Radboud Digital Security group Lunch Talk
   location: Nijmegen, Netherlands
   event_url: https://www.sos.cs.ru.nl/colloquium/index.html
   paper_url: https://eprint.iacr.org/2025/2161
+  group: invited
 - title: 'When the Wrong Key Lives On: The Key-Recovery Procedure in Integral Attacks'
   date_label: November 2025
   event: GelreCrypt workshop
@@ -17,3 +19,4 @@
   event_url: https://gelrecrypt.cs.ru.nl/
   slides_url: https://gelrecrypt.cs.ru.nl/files/slides/Yevhen.pdf
   paper_url: https://eprint.iacr.org/2025/2011
+  group: talk

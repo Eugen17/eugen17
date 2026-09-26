@@ -6,5 +6,9 @@ main:
     url: /publications/
   - title: "Teaching"
     url: /teaching/
+  - title: "Event Organisation"
+    url: /event-organisation/
+  - title: "Grants"
+    url: /grants/
   - title: "Blog Posts"
     url: /blog/
