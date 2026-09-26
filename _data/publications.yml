@@ -1,0 +1,19 @@
+- title: 'When the Wrong Key Lives On: The Key-Recovery Procedure in Integral Attacks'
+  authors: Christof Beierle, Gregor Leander, and Yevhen Perehuda
+  venue: EUROCRYPT 2026
+  year: 2026
+  category: conference
+  url: https://eprint.iacr.org/2025/2011
+- title: Integral Resistance of Block Ciphers with Key Whitening by Modular Addition
+  authors: Christof Beierle, Phil Hebborn, Gregor Leander, and Yevhen Perehuda
+  venue: CRYPTO 2025
+  year: 2025
+  category: conference
+  url: https://eprint.iacr.org/2025/1050
+- title: 'Attacks and Remedies for Randomness in AI: Cryptanalysis of PHILOX and THREEFRY'
+  authors: Jens Alich, Thomas Eisenbarth, Hossein Hadipour, Gregor Leander, Felix Mächtle, Yevhen Perehuda, Shahram Rasoolzadeh, Jonas Sander, and Cihangir Tezcan
+  venue: Preprint, 2025
+  year: 2025
+  category: preprint
+  url: https://eprint.iacr.org/2025/2161
+  note: Analysis of counter-based pseudorandom number generators used in parallel systems.

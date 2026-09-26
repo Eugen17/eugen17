@@ -1,0 +1,6 @@
+<article class="research-entry">
+  <h3><a href="{{ paper.url }}">{{ paper.title | escape }}</a></h3>
+  <p class="research-entry__authors">{{ paper.authors | escape }}</p>
+  <p><strong>{{ paper.venue | escape }}</strong>{% if paper.note %}<br />{{ paper.note | escape }}{% endif %}</p>
+  <p><a href="{{ paper.url }}">Read the paper on IACR ePrint <span aria-hidden="true">↗</span></a></p>
+</article>
