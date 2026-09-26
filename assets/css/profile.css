@@ -1,7 +1,15 @@
 /* Compact academic layout, with the existing light/dark theme preserved. */
 html { font-size: 17px; }
-body { font-size: 1rem; line-height: 1.5; }
-#main { margin-top: 1.25rem; }
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  min-height: 100dvh;
+  padding-bottom: 0;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+#main { flex: 1 0 auto; width: 100%; margin-top: 1.25rem; }
 .page__title { font-size: 1.5rem; line-height: 1.25; margin-bottom: 1rem; }
 .page__content h2, .archive > h2 {
   font-size: 1.12rem;
@@ -74,8 +82,8 @@ body { font-size: 1rem; line-height: 1.5; }
 .resource-links a:focus-visible { outline: 2px solid currentColor; outline-offset: 2px; }
 .resource-links svg { width: 17px; height: 17px; fill: none; stroke: currentColor; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
 
-/* Let long pages use the full viewport instead of covering text with the footer. */
-.page__footer { position: static; float: none; margin-top: 2rem; }
+/* Fill short viewports while keeping the footer below all page content. */
+.page__footer { flex-shrink: 0; position: static; float: none; margin-top: 2rem; }
 .page__footer footer { margin-top: 0.65rem; padding-bottom: 0.65rem; }
 .page__footer-follow { display: none; }
 
