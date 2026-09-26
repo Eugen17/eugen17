@@ -13,14 +13,13 @@ redirect_from:
 
 I am a PhD researcher in the **Symmetric Cryptography Group at Ruhr University Bochum**, supervised by **Prof. Gregor Leander**. My research focuses on the mathematical foundations of security arguments and the cryptanalysis of symmetric cryptographic primitives.
 
-I combine mathematical analysis with experiments and automated tools in **CUDA, C/C++, Python, and SageMath**, including SAT- and MILP-based methods. My publications include work at **CRYPTO 2025**, **EUROCRYPT 2026**, and **ASIACRYPT 2026**. My PhD defense is expected in March 2027.
+I combine mathematical analysis with experiments and automated tools in **CUDA, C/C++, Python, and SageMath**, including SAT- and MILP-based methods. My publications include works at **CRYPTO**, **EUROCRYPT**, and **ASIACRYPT**. My PhD defense is expected in March 2027.
 
 ## Research interests
 
-- Integral cryptanalysis and key-recovery attacks.
-- Mathematical security arguments for symmetric cryptographic primitives.
-- Cryptanalysis of parallel pseudorandom number generators, including PHILOX and THREEFRY.
-- GPU computing and automated tools for cryptanalysis.
+- Cryptanalysis and key-recovery attacks.
+- AI cryptanalysis.
+- Hardware implementation of ciphers, including GPU implementations.
 
 See my [publications]({{ '/publications/' | relative_url }}) and [talks]({{ '/talks/' | relative_url }}) for recent work.
 
