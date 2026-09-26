@@ -5,10 +5,14 @@
   event_url: https://icmu.ua/en/events/applied-maths-2026
   paper_url: https://eprint.iacr.org/2026/1897
   group: invited
-- event: 'SCOPE 2026: Scenario-Oriented Cryptographic Primitives and Engineering'
-  date_label: 17–19 July 2026
+- title: What to Guess in Key-Recovery Attacks?
+  event: 'SCOPE 2026: Scenario-Oriented Cryptographic Primitives and Engineering'
+  date_label: 18 July 2026
   location: Qingdao, China
   event_url: https://scope2026.sincst.cn/
+  paper_url: https://eprint.iacr.org/2026/1897
+  video_url: https://www.bilibili.com/video/BV1UjKb61ESX?p=4
+  video_label: Talk recording on Bilibili
   group: invited
 - title: 'When the Wrong Key Lives On: The Key-Recovery Procedure in Integral Attacks'
   date_label: 11 May 2026
