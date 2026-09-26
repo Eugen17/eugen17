@@ -1,6 +1,8 @@
 ---
 permalink: /
 title: "About me"
+seo_title: "Yevhen Perehuda — Symmetric Cryptography"
+description: "PhD researcher in symmetric cryptography at Ruhr University Bochum. Research, publications, talks, and teaching."
 author_profile: true
 redirect_from:
   - /about/
