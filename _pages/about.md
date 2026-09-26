@@ -31,7 +31,7 @@ October 2023 – present · Bochum, Germany
 Research in symmetric cryptography with Prof. Gregor Leander.
 
 **Visiting scholar · KU Leuven**  
-April – May 2026 · Belgium
+April – June 2026 · Belgium
 
 **Student research assistant · University of Luxembourg**  
 May 2021 – August 2023 · Luxembourg  
@@ -48,7 +48,7 @@ September 2022 – September 2023
 Thesis: *Residual-based CUSUM test in X-ARCH models*. Supervisor: Prof. Benjamin Holcblat.
 
 **M.Sc. in Information and Computer Science** · University of Luxembourg  
-January 2020 – September 2022  
+January 2020 – January 2025  
 Thesis: *Integral Attack Resistance in Block Ciphers: New Bounds and Generalized Framework*. Supervisor: Dr. Andy Rupp.
 
 **B.Sc. in Information and Computer Science** · National Technical University of Ukraine, Kyiv  
@@ -58,12 +58,13 @@ Thesis: *Control system for a positional-type CNC machine tool*. Supervisor: Pro
 ## Academic service
 
 - **Co-organizer, GEMS 2026** — Workshop on GPU-Tailored Modern Symmetric Cryptography. See [event organisation]({{ '/event-organisation/' | relative_url }}).
-- **Reviewer / subreviewer:** CRYPTO 2024, 2025, and 2026; EUROCRYPT 2026; *Cryptography and Communications*.
+- **Reviewer / subreviewer:** CRYPTO 2024, 2025, and 2026; EUROCRYPT 2026; ASIACRYPT 2026; *Cryptography and Communications*.
 - **Teaching assistant:** Boolean Functions, Symmetric Cryptography, and Math 1. See [teaching]({{ '/teaching/' | relative_url }}).
+- **Bachelor’s thesis supervision:** GPU-optimised brute-force cryptanalysis and probabilistic integral attacks. See [student supervision]({{ '/teaching/#student-supervision' | relative_url }}).
 
 ## Awards and skills
 
-**Grant:** Luxembourg Bankers’ Association (ABBL) Talent Grant, 2023. See [grants]({{ '/grants/' | relative_url }}).
+**Grants:** Weimar Triangle Future Network research stay grant (DAAD, 2026); Technologies d’avenir research stay grant (French Embassy, 2026); Luxembourg Bankers’ Association (ABBL) Talent Grant (2023). See [grants]({{ '/grants/' | relative_url }}).
 
 **Programming:** C/C++, CUDA, Python, SageMath, SQL, and Bash.
 

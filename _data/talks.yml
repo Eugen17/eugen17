@@ -1,17 +1,47 @@
+- title: What to Guess in Key-Recovery Attacks?
+  date_label: 28 August 2026
+  event: Mathematics for the Real World
+  location: Odense, Denmark
+  event_url: https://icmu.ua/en/events/applied-maths-2026
+  paper_url: https://eprint.iacr.org/2026/1897
+  group: invited
+- event: 'SCOPE 2026: Scenario-Oriented Cryptographic Primitives and Engineering'
+  date_label: 17–19 July 2026
+  location: Qingdao, China
+  event_url: https://scope2026.sincst.cn/
+  group: invited
+- title: 'When the Wrong Key Lives On: The Key-Recovery Procedure in Integral Attacks'
+  date_label: 11 May 2026
+  event: EUROCRYPT 2026
+  location: Rome, Italy
+  event_url: https://eurocrypt.iacr.org/2026/
+  slides_url: https://iacr.org/submit/files/slides/2026/eurocrypt/eurocrypt2026/521/521_slides.pdf
+  video_url: https://youtu.be/5FfvtCzvkC0
+  video_label: Conference session recording
+  paper_url: https://eprint.iacr.org/2025/2011
+  group: talk
+- title: 'Attacks and Remedies for Randomness in AI: Cryptanalysis of PHILOX and THREEFRY'
+  date_label: 30 April 2026
+  event: COSIC Seminar, KU Leuven
+  location: Leuven, Belgium
+  event_url: https://www.esat.kuleuven.be/cosic/cosicevent/cosic-seminar-attacks-and-remedies-for-randomness-in-ai-cryptanalysis-of-philox-and-threefry-yevhen-perehuda-ruhr-university-bochum/
+  video_url: https://www.youtube.com/watch?v=_qpAdAKUXBU
+  paper_url: https://eprint.iacr.org/2025/2161
+  group: talk
 - title: 'Attacks and Remedies for Randomness in AI: Cryptanalysis of PHILOX and THREEFRY'
   date_label: 13 March 2026
   event: Cryptography seminar
   location: Rennes, France
   event_url: https://www.creachlabs.fr/en/seminars-keeping-date-latest-research/cryptography-seminar
   paper_url: https://eprint.iacr.org/2025/2161
-  group: invited
+  group: talk
 - title: 'Attacks and Remedies for Randomness in AI: Cryptanalysis of PHILOX and THREEFRY'
   date_label: 4 March 2026
   event: Radboud Digital Security group Lunch Talk
   location: Nijmegen, Netherlands
   event_url: https://www.sos.cs.ru.nl/colloquium/index.html
   paper_url: https://eprint.iacr.org/2025/2161
-  group: invited
+  group: talk
 - title: 'When the Wrong Key Lives On: The Key-Recovery Procedure in Integral Attacks'
   date_label: November 2025
   event: GelreCrypt workshop

@@ -1,8 +1,14 @@
 <li class="research-entry talk-entry">
-  <h3>{{ talk.title | escape }}</h3>
-  <p><a href="{{ talk.event_url }}">{{ talk.event | escape }}</a> · {{ talk.location | escape }}</p>
+  {% if talk.title %}
+    <h3>{{ talk.title | escape }}</h3>
+    <p><a href="{{ talk.event_url }}">{{ talk.event | escape }}</a> · {{ talk.location | escape }}</p>
+  {% else %}
+    <h3><a href="{{ talk.event_url }}">{{ talk.event | escape }}</a></h3>
+    <p>{{ talk.location | escape }}</p>
+  {% endif %}
   <div class="entry-meta">
     <span>{{ talk.date_label | escape }}</span>
-    {% include resource-links.html paper=talk.paper_url slides=talk.slides_url video=talk.video_url label=talk.title %}
+    {% assign talk_label = talk.title | default: talk.event %}
+    {% include resource-links.html paper=talk.paper_url slides=talk.slides_url video=talk.video_url video_label=talk.video_label label=talk_label %}
   </div>
 </li>

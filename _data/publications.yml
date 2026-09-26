@@ -28,4 +28,6 @@
   year: 2025
   category: preprint
   url: https://eprint.iacr.org/2025/2161
+  video_url: https://www.youtube.com/watch?v=_qpAdAKUXBU
+  video_label: COSIC seminar recording
   note: Analysis of counter-based pseudorandom number generators used in parallel systems.
