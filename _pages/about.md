@@ -37,8 +37,7 @@ May 2021 – August 2023 · Luxembourg
 Developed and benchmarked evolutionary algorithms in Python, automated test-suite analysis, and supported research facilitators with grant proposals.
 
 **Python developer · Momentum Bots**  
-October 2018 – May 2019 · Kyiv, Ukraine  
-Developed Telegram bots in Python.
+October 2018 – May 2019 · Kyiv, Ukraine
 
 ## Education
 
@@ -60,14 +59,6 @@ Thesis: *Control system for a positional-type CNC machine tool*. Supervisor: Pro
 - **Reviewer / subreviewer:** CRYPTO 2024, 2025, and 2026; EUROCRYPT 2026; ASIACRYPT 2026; *Cryptography and Communications*.
 - **Teaching assistant:** Boolean Functions, Symmetric Cryptography, and Math 1. See [teaching]({{ '/teaching/' | relative_url }}).
 - **Bachelor’s thesis supervision:** GPU-optimised brute-force cryptanalysis and probabilistic integral attacks. See [student supervision]({{ '/teaching/#student-supervision' | relative_url }}).
-
-## Awards and skills
-
-**Grants:** Weimar Triangle Future Network research stay grant (DAAD, 2026); Technologies d’avenir research stay grant (French Embassy, 2026); Luxembourg Bankers’ Association (ABBL) Talent Grant (2023). See [grants]({{ '/grants/' | relative_url }}).
-
-**Programming:** C/C++, CUDA, Python, SageMath, SQL, and Bash.
-
-**Languages:** Ukrainian and Russian (native), English (C1), German (B1, Goethe certificate), and French (A1–A2).
 
 ## Contact
 
