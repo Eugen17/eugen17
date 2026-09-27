@@ -12,4 +12,4 @@ author_profile: true
 
 Co-organizer with Gregor Leander and Shahram Rasoolzadeh.
 
-The workshop brought together researchers in cryptography, machine learning, and hardware to discuss GPU-oriented pseudorandom number generators and symmetric cryptographic primitives.
+The workshop brought together researchers in cryptography to discuss GPU-oriented pseudorandom number generators and symmetric cryptographic primitives.
