@@ -33,13 +33,13 @@
   venue: Manuscript, 2026
   year: 2026
   category: manuscript
-  summary: We design SHIELD, a GPU-tailored block cipher that outperforms leading GPU-suited designs, and uncover a practical full-round distinguisher for Mystrium through a new analysis of integer multiplication.
+  summary: We introduce SHIELD, a GPU-optimised block cipher that sets a new benchmark for encryption speed on GPUs.
 - title: 'A Probabilistic Extension of the Division Property: Integral Distinguishers with Key-Independent Bounds'
   authors: Jules Baudrin, Christina Boura, Patrick Derbez, Gregor Leander, and Yevhen Perehuda
   venue: Manuscript, 2026
   year: 2026
   category: manuscript
-  summary: We extend integral cryptanalysis beyond deterministic zero sums, finding probabilistic distinguishers for PRESENT, GIFT, and ASCON and reducing data and time costs of key recovery for PRESENT and GIFT-64.
+  summary: We develop the first practical method for finding probabilistic integral distinguishers for ciphers with non-quadratic round functions.
 - title: 'Attacks and Remedies for Randomness in AI: Cryptanalysis of PHILOX and THREEFRY'
   authors: Jens Alich, Thomas Eisenbarth, Hossein Hadipour, Gregor Leander, Felix Mächtle, Yevhen Perehuda, Shahram Rasoolzadeh, Jonas Sander, and Cihangir Tezcan
   venue: Preprint, 2025
