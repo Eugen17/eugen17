@@ -29,6 +29,9 @@ See my [publications]({{ '/publications/' | relative_url }}) and [talks]({{ '/ta
 October 2023 – present · Bochum, Germany  
 Research in symmetric cryptography with Prof. Gregor Leander.
 
+**Visiting scholar · Université Paris Cité (upcoming)**  
+December 2026 – March 2027 · Paris, France
+
 **Visiting scholar · KU Leuven**  
 April – June 2026 · Belgium
 
