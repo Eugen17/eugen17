@@ -22,6 +22,24 @@
   slides_url: https://iacr.org/submit/files/slides/2025/crypto/crypto2025/259/259_slides.pdf
   video_url: https://youtu.be/PTCZz-g8L3s
   video_label: Conference session recording
+- title: Optimal Threshold Implementations of all bijective 4-bit S-boxes and new Infinite Families
+  authors: Enrico Piccione, Yevhen Perehuda, Gregor Leander, and Patrick Felke
+  venue: Manuscript, 2026
+  year: 2026
+  category: manuscript
+  summary: For the first time, we construct direct, uniform t + 1-share threshold implementations for all bijective 4-bit S-boxes of degree t without fresh randomness, alongside new infinite families of optimal TIs.
+- title: A Cryptographic SHIELD for GPUs
+  authors: Jens Alich, Lorenzo Grassi, Maël Hostettler, Stefan Kölbl, Gregor Leander, Yevhen Perehuda, Berenika Richterová, and Jan Vorloeper
+  venue: Manuscript, 2026
+  year: 2026
+  category: manuscript
+  summary: We design SHIELD, a GPU-tailored block cipher that outperforms leading GPU-suited designs, and uncover a practical full-round distinguisher for Mystrium through a new analysis of integer multiplication.
+- title: 'A Probabilistic Extension of the Division Property: Integral Distinguishers with Key-Independent Bounds'
+  authors: Jules Baudrin, Christina Boura, Patrick Derbez, Gregor Leander, and Yevhen Perehuda
+  venue: Manuscript, 2026
+  year: 2026
+  category: manuscript
+  summary: We extend integral cryptanalysis beyond deterministic zero sums, finding probabilistic distinguishers for PRESENT, GIFT, and ASCON and reducing data and time costs of key recovery for PRESENT and GIFT-64.
 - title: 'Attacks and Remedies for Randomness in AI: Cryptanalysis of PHILOX and THREEFRY'
   authors: Jens Alich, Thomas Eisenbarth, Hossein Hadipour, Gregor Leander, Felix Mächtle, Yevhen Perehuda, Shahram Rasoolzadeh, Jonas Sander, and Cihangir Tezcan
   venue: Preprint, 2025

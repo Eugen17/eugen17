@@ -1,8 +1,11 @@
 <li class="research-entry publication-entry">
-  <h3><a href="{{ paper.url }}">{{ paper.title | escape }}</a></h3>
+  <h3>{% if paper.url %}<a href="{{ paper.url }}">{{ paper.title | escape }}</a>{% else %}{{ paper.title | escape }}{% endif %}</h3>
   <p class="research-entry__authors">{{ paper.authors | escape }}</p>
   <div class="entry-meta">
     <span>{{ paper.venue | escape }}</span>
-    {% include resource-links.html paper=paper.url slides=paper.slides_url video=paper.video_url video_label=paper.video_label label=paper.title %}
+    {% if paper.url or paper.slides_url or paper.video_url %}
+      {% include resource-links.html paper=paper.url slides=paper.slides_url video=paper.video_url video_label=paper.video_label label=paper.title %}
+    {% endif %}
   </div>
+  {% if paper.summary %}<p class="research-entry__summary">{{ paper.summary | escape }}</p>{% endif %}
 </li>
