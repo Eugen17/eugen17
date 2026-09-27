@@ -14,6 +14,18 @@
   video_url: https://www.bilibili.com/video/BV1UjKb61ESX?p=4
   video_label: Talk recording on Bilibili
   group: invited
+- title: On the Security of PRNGs in AI Applications
+  date_label: 24–26 August 2026
+  event: Young Researcher Crypto Seminar (YRCS)
+  location: Munich, Germany
+  event_url: https://yrcs.de/
+  group: talk
+- title: On the Security of PRNGs in AI Applications
+  date_label: 11–12 June 2026
+  event: 40th Krypto-Tag
+  location: Mannheim, Germany
+  event_url: https://fg-krypto.gi.de/krypto-tag
+  group: talk
 - title: 'When the Wrong Key Lives On: The Key-Recovery Procedure in Integral Attacks'
   date_label: 11 May 2026
   event: EUROCRYPT 2026
