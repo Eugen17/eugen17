@@ -65,4 +65,4 @@ Thesis: *Control system for a positional-type CNC machine tool*. Supervisor: Pro
 
 ## Contact
 
-The best way to reach me is [yevhen.perehuda@rub.de](mailto:yevhen.perehuda@rub.de). You can also find me on [GitHub](https://github.com/Eugen17) and [LinkedIn](https://www.linkedin.com/in/yevhen-perehuda/).
+The best way to reach me is [yevhen.perehuda@rub.de](mailto:yevhen.perehuda@rub.de). You can also find me on [LinkedIn](https://www.linkedin.com/in/yevhen-perehuda/).
