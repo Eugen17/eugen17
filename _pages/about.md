@@ -40,7 +40,7 @@ May 2021 – August 2023 · Luxembourg
 Developed and benchmarked evolutionary algorithms in Python, automated test-suite analysis, and supported research facilitators with grant proposals.
 
 **Python developer · Momentum Bots**  
-October 2018 – May 2019 · Kyiv, Ukraine
+October 2017 – May 2019 · Kyiv, Ukraine
 
 ## Education
 
