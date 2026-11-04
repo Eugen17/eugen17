@@ -5,12 +5,6 @@ permalink: /event-organisation/
 author_profile: true
 ---
 
-### 14th Young Researcher Crypto Seminar (YRCS)
-
-Fall 2027 · Bochum, Germany · Planning
-
-Organizer. Expected attendance: 45–50 participants.
-
 ### [GEMS 2026](https://informatik.rub.de/symcrypt/gems2026/)
 
 **Workshop on GPU-Tailored Modern Symmetric Cryptography**  

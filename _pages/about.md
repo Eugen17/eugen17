@@ -60,7 +60,7 @@ Thesis: *Control system for a positional-type CNC machine tool*. Supervisor: Pro
 
 ## Academic service
 
-- **Event organisation:** co-organizer of GEMS 2026 and organizer of the planned 14th Young Researcher Crypto Seminar in Bochum in fall 2027. See [event organisation]({{ '/event-organisation/' | relative_url }}).
+- **Event organisation:** co-organizer of GEMS 2026 — Workshop on GPU-Tailored Modern Symmetric Cryptography. See [event organisation]({{ '/event-organisation/' | relative_url }}).
 - **Reviewer / subreviewer:** CRYPTO 2024, 2025, and 2026; EUROCRYPT 2026 and 2027; ASIACRYPT 2026; *Cryptography and Communications* (2025).
 - **Teaching assistant:** Boolean Functions, Symmetric Cryptography, and Math 1. See [teaching]({{ '/teaching/' | relative_url }}).
 - **Bachelor’s thesis supervision:** alternative key-schedule modelling for Rijndael-256, GPU-optimised brute-force cryptanalysis, and probabilistic integral attacks. See [student supervision]({{ '/teaching/#student-supervision' | relative_url }}).
