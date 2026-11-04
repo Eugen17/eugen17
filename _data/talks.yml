@@ -14,6 +14,21 @@
   video_url: https://www.bilibili.com/video/BV1UjKb61ESX?p=4
   video_label: Talk recording on Bilibili
   group: invited
+- title: 'When the Wrong Key Lives On: The Key-Recovery Procedure in Integral Attacks'
+  date_label: 5 November 2025
+  event: GelreCrypt 2025
+  location: Nijmegen, Netherlands
+  event_url: https://gelrecrypt.cs.ru.nl/
+  slides_url: https://gelrecrypt.cs.ru.nl/files/slides/Yevhen.pdf
+  paper_url: https://eprint.iacr.org/2025/2011
+  group: invited
+- title: 'Poster: Breaking and Replacing GPU PRNGs: Practical PHILOX Attacks and a 1.5 TB/s Alternative'
+  date_label: 11–15 October 2026
+  event: CHES 2026
+  location: Antalya, Türkiye
+  event_url: https://ches.iacr.org/2026/
+  paper_url: https://eprint.iacr.org/2025/2161
+  group: talk
 - title: On the Security of PRNGs in AI Applications
   date_label: 24–26 August 2026
   event: Young Researcher Crypto Seminar (YRCS)
@@ -57,12 +72,4 @@
   location: Nijmegen, Netherlands
   event_url: https://www.sos.cs.ru.nl/colloquium/index.html
   paper_url: https://eprint.iacr.org/2025/2161
-  group: talk
-- title: 'When the Wrong Key Lives On: The Key-Recovery Procedure in Integral Attacks'
-  date_label: November 2025
-  event: GelreCrypt workshop
-  location: Nijmegen, Netherlands
-  event_url: https://gelrecrypt.cs.ru.nl/
-  slides_url: https://gelrecrypt.cs.ru.nl/files/slides/Yevhen.pdf
-  paper_url: https://eprint.iacr.org/2025/2011
   group: talk

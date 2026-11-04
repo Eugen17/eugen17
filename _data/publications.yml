@@ -22,30 +22,34 @@
   slides_url: https://iacr.org/submit/files/slides/2025/crypto/crypto2025/259/259_slides.pdf
   video_url: https://youtu.be/PTCZz-g8L3s
   video_label: Conference session recording
+- title: 'Breaking Alleged Red Pike: A British Government Block Cipher'
+  authors: Yevhen Perehuda
+  venue: Manuscript, 2026
+  year: 2026
+  category: manuscript
+  note: Available upon request.
 - title: Optimal Threshold Implementations of all bijective 4-bit S-boxes and new Infinite Families
   authors: Enrico Piccione, Yevhen Perehuda, Gregor Leander, and Patrick Felke
-  venue: Manuscript, 2026
+  venue: Submission, 2026
   year: 2026
   category: manuscript
-  summary: For the first time, we construct direct, uniform t + 1-share threshold implementations for all bijective 4-bit S-boxes of degree t without fresh randomness, alongside new infinite families of optimal TIs.
+  url: https://eprint.iacr.org/2026/2449
 - title: A Cryptographic SHIELD for GPUs
   authors: Jens Alich, Lorenzo Grassi, Maël Hostettler, Stefan Kölbl, Gregor Leander, Yevhen Perehuda, Berenika Richterová, and Jan Vorloeper
-  venue: Manuscript, 2026
+  venue: Submission, 2026
   year: 2026
   category: manuscript
-  summary: We introduce SHIELD, a GPU-optimised block cipher that sets a new benchmark for encryption speed on GPUs.
 - title: 'A Probabilistic Extension of the Division Property: Integral Distinguishers with Key-Independent Bounds'
   authors: Jules Baudrin, Christina Boura, Patrick Derbez, Gregor Leander, and Yevhen Perehuda
-  venue: Manuscript, 2026
+  venue: Submission, 2026
   year: 2026
   category: manuscript
-  summary: We develop the first practical method for finding probabilistic integral distinguishers for ciphers with non-quadratic round functions.
-- title: 'Attacks and Remedies for Randomness in AI: Cryptanalysis of PHILOX and THREEFRY'
-  authors: Jens Alich, Thomas Eisenbarth, Hossein Hadipour, Gregor Leander, Felix Mächtle, Yevhen Perehuda, Shahram Rasoolzadeh, Jonas Sander, and Cihangir Tezcan
-  venue: Preprint, 2025
-  year: 2025
+  url: https://eprint.iacr.org/2026/2602
+- title: 'Attacks and Remedies for Randomness in AI (and with AI): Cryptanalysis of PHILOX and THREEFRY'
+  authors: Jens Alich, Thomas Eisenbarth, Hosein Hadipour, Stefan Kölbl, Gregor Leander, Felix Mächtle, Yevhen Perehuda, Shahram Rasoolzadeh, Jonas Sander, and Cihangir Tezcan
+  venue: Submission, 2026
+  year: 2026
   category: preprint
   url: https://eprint.iacr.org/2025/2161
   video_url: https://www.youtube.com/watch?v=_qpAdAKUXBU
   video_label: COSIC seminar recording
-  note: Analysis of counter-based pseudorandom number generators used in parallel systems.

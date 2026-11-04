@@ -7,5 +7,5 @@
       {% include resource-links.html paper=paper.url slides=paper.slides_url video=paper.video_url video_label=paper.video_label label=paper.title %}
     {% endif %}
   </div>
-  {% if paper.summary %}<p class="research-entry__summary">{{ paper.summary | escape }}</p>{% endif %}
+  {% if paper.note %}<p class="research-entry__note">{{ paper.note | escape }}</p>{% endif %}
 </li>
